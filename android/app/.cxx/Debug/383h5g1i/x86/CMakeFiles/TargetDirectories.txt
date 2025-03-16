@@ -1,0 +1,2 @@
+/Users/albert/Desktop/CS378Projs/Project1/android/app/.cxx/Debug/383h5g1i/x86/CMakeFiles/edit_cache.dir
+/Users/albert/Desktop/CS378Projs/Project1/android/app/.cxx/Debug/383h5g1i/x86/CMakeFiles/rebuild_cache.dir
